@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+div
+ {
+    text-align: center;
+    display: grid;
+}
+
+/* display:grid; keeps the gap between the buttons */
+
+button {
+    background-color: antiquewhite;
+    font-family: serif;
+    font-size: 15px;
+}
+
